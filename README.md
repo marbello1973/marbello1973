@@ -16,6 +16,7 @@
 * ORM Sequalize
 * Express
 * JavaScript
+* Typescript
 * HTML
 * CSS
 * React
