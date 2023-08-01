@@ -9,6 +9,19 @@
 
 
 # Habilidades Técnicas: 
-#### Control de versiones Git, GitHub, Bases de datos relacionales PostgreSQL, ORM Sequalize, Express, JavaScript, HTML, CSS, React, Redux, Node.Js, Linux (CentOS, Ubuntu con XFCE), Axios.
+#### 
+* Control de versiones Git
+* GitHub
+* Bases de datos relacionales PostgreSQL
+* ORM Sequalize
+* Express
+* JavaScript
+* HTML
+* CSS
+* React
+* Redux
+* Node.Js
+* Linux (CentOS, Ubuntu con XFCE)
+* Axios.
 
 
