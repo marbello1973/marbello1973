@@ -1,6 +1,6 @@
-# Acerca de mi
+## David Marbello ![David](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg)
 >[!NOTE]
->¡Hola! Soy David Marbello, un desarrollador web fullstack, apasionado con la tecnologia, y los desafios que esta conlleva, para resolverlos y llevarlos a un nivel superior
+>¡Hola! Soy desarrollador web fullstack, apasionado con la tecnologia, y los desafios que esta conlleva, para resolverlos y llevarlos a un nivel superior
 
 >[!TIP]
 >Orientado a resultados y alcanzar los objetivos establecidos para cada proyecto
