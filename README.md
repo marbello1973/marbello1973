@@ -14,14 +14,14 @@
 
 # Habilidades Técnicas: 
 #### 
-* `#RRGGBB`Control de versiones Git
+* Control de versiones Git
 * GitHub
 * Bases de datos relacionales PostgreSQL
 * ORM Sequalize
 * Express
 * JavaScript
 * Typescript
-* HTML
+* HTML ![Static Badge] (https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 * CSS
 * React
 * Redux
