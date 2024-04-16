@@ -21,7 +21,7 @@
 * Express
 * JavaScript
 * Typescript
-* HTML ![Static Badge] (https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+  HTML ![Static Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 * CSS
 * React
 * Redux
