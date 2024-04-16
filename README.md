@@ -29,3 +29,5 @@
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 # Redes sociales 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidmarbello-desarrolladorweb/)
+[![Static Badge](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://marbello1973.github.io/MiPortfolio/inicio)
+
