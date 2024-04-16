@@ -1,5 +1,5 @@
 # Acerca de mi
->[!HOLA]
+>[!NOTE]
 >¡Hola! Soy David Marbello, un desarrollador web fullstack, apasionado con la tecnologia, y los desafios que esta conlleva, para resolverlos y llevarlos a un nivel superior
 #### Orientado a resultados y alcanzar los objetivos establecidos para cada proyecto
 
