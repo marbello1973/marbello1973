@@ -13,7 +13,8 @@
 
 
 # Habilidades Técnicas: 
-#### 
+####
+![Static Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 * Control de versiones Git
 * GitHub
 * Bases de datos relacionales PostgreSQL
@@ -21,7 +22,7 @@
 * Express
 * JavaScript
 * Typescript
-  HTML ![Static Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 * CSS
 * React
 * Redux
