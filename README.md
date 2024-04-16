@@ -14,6 +14,7 @@
 
 # Habilidades Técnicas: 
 #### 
+![image]({https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white})
 * Control de versiones Git
 * GitHub
 * Bases de datos relacionales PostgreSQL
