@@ -14,7 +14,7 @@
 
 # Habilidades Técnicas: 
 #### 
-* `#0969DA`Control de versiones Git
+* `#RRGGBB`Control de versiones Git
 * GitHub
 * Bases de datos relacionales PostgreSQL
 * ORM Sequalize
